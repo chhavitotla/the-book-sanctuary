@@ -1,0 +1,18 @@
+# .streamlit/config.toml
+
+[theme]
+base = "light"
+primaryColor = "#B185A7"         # Warm Mauve accent
+backgroundColor = "#F7DDE2"      # Light pink hue
+secondaryBackgroundColor = "#F2D16B"  # Muted Gold
+textColor = "#2D2D2D"            # Charcoal Gray
+font = "serif"                   # Playfair Display substitute
+
+[server]
+headless = true
+
+[client]
+showSidebarNavigation = false
+
+[ui]
+pageTitle = "The Book Sanctuary"
